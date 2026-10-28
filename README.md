@@ -6,7 +6,7 @@ My 2nd year Electrical engineering lab notes and breadboard experiments
 the objectice of this experiment project is to verify kvl  .
 
 
-2. Circuit Setup & Components
+2. Circuit Setup & Components and schematic
     2 1k ohm resistors
     1 330 ohm resistor
     1 100ohm resistor 
