@@ -1,5 +1,8 @@
+
+
 # Circuit-Analysis-labs
-My 2nd year Electrical engineering lab notes and breadboard experiments 
+My 2nd year Electrical engineering lab notes and breadboard experiments  
+
 # Project 1: Voltage Division & KVL Verification (Series Resistors)
 
 1. Overview & Objective
@@ -35,5 +38,25 @@ it was observed that the voltages we measured across the 4 resistors almost adde
  
 5. Troubleshooting & Challenges
 .Right after this experimemt i forgot to turn of the battery while it was plugged on onto the circuit still which would cause me problem in the below project no 2
+
+
+# Project 2: Current Division & KCL Verification (Parallel Resistors)
+ 1. Overview & Objective
+this experiment is meant to verify kcl and current division acrosss 3 resistors and a voltage supply 
+
+2. Circuit Setup & Components
+  1k ohm resistor
+  330 ohm resistor
+  100 ohm resistor 
+  Wifi adapter as voltage source 
+
+### 3. Measurements & Results
+<!-- Put your numbers or observations -->
+
+### 4. Key Lessons & Observations
+<!-- What did you realize about parallel circuits? -->
+
+### 5. Troubleshooting & Challenges
+<!-- This is where your short circuit, battery drain, and the hot 100-ohm resistor go! -->
 
 
