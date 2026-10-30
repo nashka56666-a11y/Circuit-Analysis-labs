@@ -51,7 +51,7 @@ this experiment is meant to verify kcl and current division acrosss 3 resistors 
   Wifi adapter plugged into the socket  as 9V voltage source 
  3. Measurements & Results
    | Parameter | Theory | Measured | Error |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | V | 9 V | 9.31 V | +3.44% |
 | R1 | 1000 Ω | 997 Ω | -3.00% |
 | R2 | 330 Ω | 323 Ω | -7.00% |
