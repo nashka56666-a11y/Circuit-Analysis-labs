@@ -1,9 +1,9 @@
 
 
-# Circuit-Analysis-labs
+ Circuit-Analysis-labs
 My 2nd year Electrical engineering lab notes and breadboard experiments  
 
-# Project 1: Voltage Division & KVL Verification (Series Resistors)
+ Project 1: Voltage Division & KVL Verification (Series Resistors)
 
 1. Overview & Objective
 the objectice of this experiment project is to verify kvl  .
@@ -17,7 +17,7 @@ the objectice of this experiment project is to verify kvl  .
     1 9v battery 
 
 
-### 3. Measurements & Results
+3. Measurements & Results
 
 | Parameter | Theory | Measured | Error |
 |---|---|---|---|
@@ -40,7 +40,7 @@ it was observed that the voltages we measured across the 4 resistors almost adde
 .Right after this experimemt i forgot to turn of the battery while it was plugged on onto the circuit still which would cause me problem in the below project no 2
 
 
-# Project 2: Current Division & KCL Verification (Parallel Resistors)
+ Project 2: Current Division & KCL Verification (Parallel Resistors)
  1. Overview & Objective
 this experiment is meant to verify kcl and current division acrosss 3 resistors and a voltage supply 
 
@@ -48,15 +48,45 @@ this experiment is meant to verify kcl and current division acrosss 3 resistors 
   1k ohm resistor
   330 ohm resistor
   100 ohm resistor 
-  Wifi adapter as voltage source 
+  Wifi adapter plugged into the socket  as 9V voltage source 
+ 3. Measurements & Results
+| Parameter | Theoretical | Measured |
+| :--- | :--- | :--- |
+| Source Voltage  | 9.00 V | 9.31 V |
+| R1 | 1000 Ω | 997 Ω |
+| R2 Resistance | 330 Ω | 323 Ω |
+| R3 Resistance | 100 Ω | 98 Ω |
 
-### 3. Measurements & Results
-<!-- Put your numbers or observations -->
+| Total current  | 0.1263 A | 0.1277 A |
 
-### 4. Key Lessons & Observations
-<!-- What did you realize about parallel circuits? -->
+4. Key Lessons & Observations
+   i observed that the upon connecting voltage source i smelled burn which was as a result of the 100 ohm resistor    drawing   much     current this taught me that resistors have a power rating which i did not know about prior to the experiment as i already knew the power concept . next time ill put the resistors power ratings into consideration before connecting a circuit .
 
-### 5. Troubleshooting & Challenges
-<!-- This is where your short circuit, battery drain, and the hot 100-ohm resistor go! -->
+ 5. Troubleshooting & Challenges
+    in the experiment before i left my battery connected to the circuit for 5 days this drained my battery and i didnt realize this until when i was about to begin experiment 2.after doing some research i decided touse an oldwifiadapteras a 9v battery voltage source cutt of its wires and connected it to the breadboard circuit
+
+  6. Visual Documentation and Hand Calculations
+     <img width="1293" height="660" alt="image" src="https://github.com/user-attachments/assets/201c5620-1edb-4c5d-afb4-af657eafe529" />
+     <img width="1294" height="589" alt="image" src="https://github.com/user-attachments/assets/980f1f8a-7b5b-40a6-87d0-9445190d573b" />
+     <img width="1122" height="524" alt="image" src="https://github.com/user-attachments/assets/6f17a177-4ac3-4ce1-adcf-e0c3c73ebbf4" />
+     <img width="696" height="638" alt="image" src="https://github.com/user-attachments/assets/ae4e293e-9e9a-4509-b7a2-2ee8972863df" />
+     <img width="1092" height="552" alt="image" src="https://github.com/user-attachments/assets/86bad4ac-8152-4307-86bb-db1261e9c803" />
+     <img width="952" height="462" alt="image" src="https://github.com/user-attachments/assets/c54aac7b-e622-4b6c-8b2c-35df23b9dff3" />
+     <img width="1290" height="621" alt="image" src="https://github.com/user-attachments/assets/80f9a481-ce14-4b73-9b0a-94d3d632da93" />
+     <img width="1179" height="568" alt="image" src="https://github.com/user-attachments/assets/9cd5ee20-8b23-47a6-b0ae-b474d073011a" />
+
+
+
+
+     
+
+     
+
+
+     
+     
+
+
+  
 
 
