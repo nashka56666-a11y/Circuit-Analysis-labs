@@ -50,7 +50,8 @@ this experiment is meant to verify kcl and current division acrosss 3 resistors 
   100 ohm resistor 
   Wifi adapter plugged into the socket  as 9V voltage source 
  3. Measurements & Results
-   | Parameter | Theory | Measured | Error |
+
+| Parameter | Theory | Measured | Error |
 | --- | --- | --- | --- |
 | V | 9 V | 9.31 V | +3.44% |
 | R1 | 1000 Ω | 997 Ω | -3.00% |
@@ -60,16 +61,16 @@ this experiment is meant to verify kcl and current division acrosss 3 resistors 
 | I1 | 0.00900 A | 0.0092 A | +2.22% |
 | I2 | 0.02727 A | 0.0283 A | +3.6396% |
 | I3 | 0.0900 A | 0.0942 A | +4.45% |
-   
 
 
-5. Key Lessons & Observations
+
+4. Key Lessons & Observations
    i observed that the upon connecting voltage source i smelled burn which was as a result of the 100 ohm resistor    drawing   much     current this taught me that resistors have a power rating which i did not know about prior to the experiment as i already knew the power concept . next time ill put the resistors power ratings into consideration before connecting a circuit .
 
- 6. Troubleshooting & Challenges
+ 5. Troubleshooting & Challenges
     in the experiment before i left my battery connected to the circuit for 5 days this drained my battery and i didnt realize this until when i was about to begin experiment 2.after doing some research i decided touse an oldwifiadapteras a 9v battery voltage source cutt of its wires and connected it to the breadboard circuit
 
-  7. Visual Documentation and Hand Calculations
+  6. Visual Documentation and Hand Calculations
      <img width="1293" height="660" alt="image" src="https://github.com/user-attachments/assets/201c5620-1edb-4c5d-afb4-af657eafe529" />
      <img width="1294" height="589" alt="image" src="https://github.com/user-attachments/assets/980f1f8a-7b5b-40a6-87d0-9445190d573b" />
      <img width="1122" height="524" alt="image" src="https://github.com/user-attachments/assets/6f17a177-4ac3-4ce1-adcf-e0c3c73ebbf4" />
